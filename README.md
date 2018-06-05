@@ -1,6 +1,6 @@
 # hello-world
 simple
-Test commit
+test
 
 
 114314
